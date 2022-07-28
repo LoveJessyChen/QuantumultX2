@@ -5,13 +5,12 @@
 ## 🔴 Use must indicate the source/使用需注明出处🔴
 
 ⚠️ By using, you agree to this agreement | ⚠️ 使用则同意本协议
- | ----  | --- |
- 🔴 This warehouse is only for overseas Chinese, to solve the problem of unable to recharge the mainland APP, can not be reprinted and published to any platform related to the mainland | 🔴 本仓库只面向海外华人,解决无法为大陆APP充值的问题,不可以转载发布到任何与大陆有关的平台
-⚠️ For learning communication and testing only, please do not use for other purposes | ⚠️ 仅供学习交流和测试使用,绝不用于其他用途
-⚠️ Can Star but Fork is forbidden, Fork will be blocked | ⚠️ 可以Star 但是禁止Fork,Fork将会被拉黑
-⚠️ If you have any questions, you can raise issues or join the group | ⚠️ 有问题可以提issues,或者加入群组
-⚠️ Will not delete the library, but you can not share | ⚠️ 不会删库,但你不可以分享
-⚠️ Please respect the author, thank you | ⚠️ 请尊重作者,谢谢
+ 
+ 
+## https://github.com/I-am-R-E/QuantumultX
+
+
+
 
 # ZhiHu Come Soon ...<br>知乎极致优化
 
